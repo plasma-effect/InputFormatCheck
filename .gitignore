@@ -1,0 +1,10 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/InputFormatCheck/.vs/InputFormatCheck
+/InputFormatCheck/InputFormatCheck/bin/Debug/netstandard2.0
+/InputFormatCheck/InputFormatCheck/obj
+/InputFormatCheck/InputFormatTest/bin/Debug
+/InputFormatCheck/InputFormatTest/obj/Debug
+/InputFormatCheck/packages
